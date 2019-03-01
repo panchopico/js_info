@@ -1,0 +1,28 @@
+h1 {
+	display: table;
+	color: blue;
+	background-color: grey;
+}
+
+h2 {
+	display: table;
+	font-family:arial,sans-serif,helvetica;
+	color: green;
+	font-weight: bold;
+	background-color: grey;
+}
+
+h3 {
+	display: table;
+	color: red;
+	font-family:sans-serif,helvetica,arial;
+	font-weight:bold;
+	background-color: salmon;
+}
+
+p {
+	display: table;
+	color: white;
+	font-weight: bold;
+	background-color: blue;
+}
