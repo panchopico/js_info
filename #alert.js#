@@ -80,14 +80,14 @@ let bag = {
 alert( `${fruit}:${bag[fruit]}`);
 
 fruit = prompt("Which fruit to add to bag?", "lemon");
-bag = {
+bag = { // creates new object called "bag" with only one property
 	[fruit]:7,
 };
 
 alert( `${fruit}:${bag[fruit]}`);
 
 fruit = prompt("Which fruit to add to bag?", "pear");
-bag = {
+bag = {  // creates new object called "bag" with only one property
 	[fruit]:9,
 };
 
